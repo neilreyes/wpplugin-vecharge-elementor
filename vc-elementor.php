@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: Elementor Test Extension
- * Description: Custom Elementor extension.
+ * Plugin Name: VE Charge Elementor Extension
+ * Description: Custom Elementor for VE Charge
  * Plugin URI:  https://elementor.com/
  * Version:     1.0.0
  * Author:      Elementor
